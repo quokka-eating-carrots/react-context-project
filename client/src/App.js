@@ -1,4 +1,5 @@
 import React from 'react'
+import { OrderContext } from './context/OrderContext'
 import OrderPage from './pages/OrderPage'
 import SummaryPage from './pages/SummaryPage'
 
